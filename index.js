@@ -1,7 +1,7 @@
-!DOCTYPE HTML
-
 <html>
-
+<title>
+  NullBrew
+</title>
 <h2> Welcome to NullBrew! <h2>
 
 <style>
